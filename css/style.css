@@ -673,8 +673,8 @@ footer p span {
                 Statement 2
 ============================================ */
 
-#statement {
-    background: url("../img/tech/tech-statement.jpg") no-repeat fixed center;
+#statement-2 {
+    background: url("../img/csn-img/bg-3-suitup.png") no-repeat fixed center;
     background-size: cover;
 }
 
